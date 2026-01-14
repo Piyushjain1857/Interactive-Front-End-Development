@@ -40,7 +40,18 @@
 
 // Filter Example: Create a new array with score is greater than 90
 
-let scores = [85,92,78,90,88];
-let highScores = scores.filter((score) => score >= 90);
-console.log(highScores);
+// let scores = [85,92,78,90,88];
+// let highScores = scores.filter((score) => score >= 90);
+// console.log(highScores);
 
+//  example-2
+
+let scores = [85, 92, 78, 90, 88];
+let highScores = scores.filter((score) => 
+{
+    if (score >= 90) {
+        console.log(score + " is greater than or equal to 90");
+    } else {
+        console.log(score + " is less than 90");
+    }
+});
