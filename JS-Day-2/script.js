@@ -12,3 +12,10 @@ arr2.forEach(function(element, index, array) {
 });
 console.log(arr2);
 
+
+// Map Example: Create a new array with each element increased by 3
+let arr3 = [1, 2, 3, 4, 5, 6]
+let newArr = arr3.map(function(i) {
+    return i + 3;
+});
+console.log(newArr);
