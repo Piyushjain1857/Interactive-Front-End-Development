@@ -14,7 +14,7 @@ const farewell = (name) => { console.log(name); };
 
 farewell("Piyush");
 
-// callback function 
+// callback function => a function passed as an argument to another function
 
 const sample = (callback) => {
     console.log("Sample");
