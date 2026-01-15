@@ -34,3 +34,14 @@
 //     }
 // }
 // console.log(numbers);   
+
+
+// Q5. Find The Duplicate element and return the unique array.
+// const arr = [1, 2, 3, 2, 4, 3, 5];
+// const uniqueArray = [];
+// for (let i = 0; i < arr.length; i++) {
+//     if (!uniqueArray.includes(arr[i])) {
+//         uniqueArray.push(arr[i]);
+//     }
+// }
+// console.log(uniqueArray);
