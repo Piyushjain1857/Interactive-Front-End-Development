@@ -68,10 +68,10 @@
 // console.log(sum);
 
 // by 
-let numbers = [1, 2, 3, 4, 5];
-let sum = numbers.reduce((acc, current) => {
-    return acc + current;
-});
+// let numbers = [1, 2, 3, 4, 5];
+// let sum = numbers.reduce((acc, current) => {
+//     return acc + current;
+// });
 
-console.log(sum);
+// console.log(sum);
 
