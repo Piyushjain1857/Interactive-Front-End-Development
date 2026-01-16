@@ -6,3 +6,11 @@
 //  console.log(fruits) // ['apple', 'banana', 'cherry']
 
 
+// Pop
+// let fruits = ['apple','orange', 'mango']
+// let removed = fruits.pop()
+
+// console.log(removed);
+// console.log(fruits);
+
+
