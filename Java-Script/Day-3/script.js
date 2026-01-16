@@ -1,9 +1,9 @@
 // Push
-//  let fruits = ["apple", "banana"];
-//  let newLength = fruits.push("cherry");
+// let fruits = ["apple", "banana"];
+// let newLength = fruits.push("cherry");
 
-//  console.log(newLength); 
-//  console.log(fruits) 
+// console.log(newLength);
+// console.log(fruits)
 
 
 // Pop
