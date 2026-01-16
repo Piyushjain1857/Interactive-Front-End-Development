@@ -18,3 +18,9 @@ do {
     console.log("Do-While Loop iteration: " + k);
     k++;
 } while (k < 5);
+
+// for...of loop
+const array = ['a', 'b', 'c', 'd', 'e'];
+for (const element of array) {
+    console.log("For...of Loop element: " + element);
+}
