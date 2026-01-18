@@ -1,17 +1,9 @@
-#road {
-    width: 100%;
-    height: 150px;
-    border: 2px solid #333;
-    position: relative;
-    overflow: hidden;
-    margin-top: 20px;
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #cce7ff;
 }
 
-#car {
-    font-size: 5000px;
-    position: absolute;
-    left: 0;
-    top: 50%;
-    transform: translateY(-50%);
-    cursor: pointer;
-}
+
