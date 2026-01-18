@@ -6,4 +6,12 @@ body {
     background: #cce7ff;
 }
 
+#road {
+    width: 600px;
+    height: 120px;
+    background: #444;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+}
 
