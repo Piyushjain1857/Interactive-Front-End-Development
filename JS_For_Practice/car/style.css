@@ -19,5 +19,7 @@ body {
     font-size: 50px;
     position: absolute;
     left: 10px;
-
+    top: 35px;
+    transition: transform 1s linear;
+    cursor: pointer;
 }
