@@ -24,6 +24,11 @@
 // let fulname =`${firstName} ${lastName}`
 // console.log(fulname)
 
+// replace
+
+// let sentence = "I love JavaScript. JavaScript is powerful.";
+// let newSentence = sentence.replace("JavaScript", "Node.js");
+
 // let university="K.R Mangalam"
 // let program="BCA AI/DS"
 // console.log(`My name is Piyush Jain And I am Pursuing ${program} for ${university} `)
