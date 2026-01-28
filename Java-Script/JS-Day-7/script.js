@@ -7,8 +7,8 @@
 let user={
     name:"Piyush",
     age:18,
-    skills:["HTML","CSS","JS"],
     addres:"Gurugram",
+    mobileno:1234567890,
     favcolor:["red","blue","green"]
 }
 
