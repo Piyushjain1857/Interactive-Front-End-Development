@@ -34,6 +34,7 @@ const car={
     make:"Mahindra",
     model:"Thar",
 };
+Object.freeze(car);
 
 car.color="ZBlack";
 
