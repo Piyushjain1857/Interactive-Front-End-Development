@@ -52,6 +52,6 @@
     (function () {
         let a = 10;
         b = a;
-        console.log(a)
+        // console.log(a)
     })()
 console.log(b) //can access a a variable after assignment
