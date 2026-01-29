@@ -14,9 +14,9 @@ let user={
     // },
     // mobileno:1234567890,
     // favcolor:["red","blue","green"],
-    demo:function(){
-        return "Hello World";
-    }
+    // demo:function(){
+    //     return "Hello World";
+    // }
 }
 
 // console.log(user.demo());
