@@ -6,7 +6,7 @@
 
 let user={
     name:"Piyush",
-    age:18,
+    // age:18,
     // addres:{
     //     city:"Gurugram",
     //     state:"Haryana",
