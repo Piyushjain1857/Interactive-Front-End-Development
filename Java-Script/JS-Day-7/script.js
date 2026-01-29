@@ -35,6 +35,8 @@ const car={
     model:"Thar",
 };
 Object.freeze(car);
+
+
 // Object.seal(car);
 
 car.color="ZBlack";
