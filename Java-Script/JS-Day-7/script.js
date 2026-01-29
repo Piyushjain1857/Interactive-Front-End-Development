@@ -39,8 +39,8 @@ let user={
 
 // Object.seal(car);
 
-car.color="ZBlack";
-console.log(car);
+// car.color="ZBlack";
+// console.log(car);
 
 
 /**
