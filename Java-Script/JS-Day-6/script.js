@@ -49,9 +49,9 @@
 // })()
 // console.log(a) //cant access a
 
-    (function () {
-        let a = 10;
+    // (function () {
+    //     let a = 10;
         // b = a;
         // console.log(a)
-    })()
+    // })()
 console.log(b) //can access a a variable after assignment
