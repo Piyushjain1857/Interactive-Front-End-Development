@@ -43,11 +43,11 @@
 // }
 // sample2()
 
-(function () {
-    let a = 10;
-    console.log(a)
-})()
-console.log(a) //cant access a
+// (function () {
+//     let a = 10;
+//     console.log(a)
+// })()
+// console.log(a) //cant access a
 
     (function () {
         let a = 10;
