@@ -12,7 +12,7 @@ let user={
     //     state:"Haryana",
     //     country:"India"
     // },
-    mobileno:1234567890,
+    // mobileno:1234567890,
     // favcolor:["red","blue","green"],
     demo:function(){
         return "Hello World";
