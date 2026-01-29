@@ -13,7 +13,7 @@ let user={
     //     country:"India"
     // },
     mobileno:1234567890,
-    favcolor:["red","blue","green"],
+    // favcolor:["red","blue","green"],
     demo:function(){
         return "Hello World";
     }
