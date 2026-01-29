@@ -30,11 +30,11 @@ let user={
 // console.log(Object.values(user));
 // console.log(Object.entries(user));
 
-const car={
-    make:"Mahindra",
-    model:"Thar",
-};
-Object.freeze(car);
+// const car={
+//     make:"Mahindra",
+//     model:"Thar",
+// };
+// Object.freeze(car);
 
 
 // Object.seal(car);
