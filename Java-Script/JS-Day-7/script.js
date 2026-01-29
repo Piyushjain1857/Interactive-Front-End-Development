@@ -7,11 +7,11 @@
 let user={
     name:"Piyush",
     age:18,
-    addres:{
-        city:"Gurugram",
-        state:"Haryana",
-        country:"India"
-    },
+    // addres:{
+    //     city:"Gurugram",
+    //     state:"Haryana",
+    //     country:"India"
+    // },
     mobileno:1234567890,
     favcolor:["red","blue","green"],
     demo:function(){
