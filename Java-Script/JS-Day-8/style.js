@@ -5,3 +5,6 @@
 // heading.style.textAlign = "center";
 // heading.textContent = "Welcome to JavaScript Styling!";
 
+const heading = document.getElementsByClassName("title");
+console.log(heading);
+
