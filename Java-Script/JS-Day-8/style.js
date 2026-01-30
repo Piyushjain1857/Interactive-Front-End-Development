@@ -5,8 +5,8 @@
 // heading.style.textAlign = "center";
 // heading.textContent = "Welcome to JavaScript Styling!";
 
-const heading = document.getElementsByClassName("title");
-console.log(heading);
+// const heading = document.getElementsByClassName("title");
+// console.log(heading);
 
 for (let i = 0; i < heading.length; i++) {
     heading[i].style.color = "blue";
