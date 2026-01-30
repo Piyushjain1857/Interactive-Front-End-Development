@@ -2,3 +2,4 @@
 // console.log(heading);
 // heading.style.color = "blue";
 // heading.style.backgroundColor = "lightblue";
+// heading.style.textAlign = "center";
