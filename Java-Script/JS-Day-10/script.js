@@ -36,5 +36,10 @@ console.log(date.toString());
 // }, 5000);
 
 setInterval(() => {
-    console.log(new Date().toLocaleTimeString());
+    // console.log(new Date().toLocaleTimeString());
 }, 2000);
+
+handleClick = () => {
+    // console.log("Button Clicked");
+    document.querySelector('p').textContent = "Btn Clicked";
+}
