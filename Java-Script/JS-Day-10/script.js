@@ -34,3 +34,7 @@ console.log(date.toString());
 //     // console.log("Welcome");
 //     alert("Offer valid for 24 hours only!");
 // }, 5000);
+
+setInterval(() => {
+    console.log(new Date().toLocaleTimeString());
+}, 2000);
