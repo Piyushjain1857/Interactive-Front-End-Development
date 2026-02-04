@@ -21,6 +21,7 @@ container.removeChild(newPhara);
 
 // or
 document.getElementById('container').removeChild(newPhara);
+
 // queryselector example
 const cont = document.querySelector('#container');
 console.log(cont.innerHTML);
