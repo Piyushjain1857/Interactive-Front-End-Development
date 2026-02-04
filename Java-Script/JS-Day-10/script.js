@@ -15,3 +15,11 @@ console.log(newPhara.innerHTML);
 // append the new element to the container
 const container = document.getElementById('container');
 container.appendChild(newPhara);
+
+// remove the new element from the container
+container.removeChild(newPhara);
+
+
+// queryselector example
+const cont = document.querySelector('#container');
+console.log(cont.innerHTML);
