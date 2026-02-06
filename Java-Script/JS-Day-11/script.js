@@ -19,4 +19,4 @@ document.getElementById("btn").addEventListener("click", () => {
 
     image.setAttribute("alt", "kr mangalam");
 
-    document.getElementById("content").append(image);
+    document.getElementById("content").append(image);});
