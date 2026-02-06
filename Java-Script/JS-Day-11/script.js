@@ -6,5 +6,6 @@ function handleClick() {
 
     const image = document.createElement("img");
     image.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROgDj1fKbwyAjxoGGan-5jDPUOkHWMWBh3wg&s";
+    image.setAttribute("alt", "KRMU Image");
     document.body.appendChild(image);
 }
