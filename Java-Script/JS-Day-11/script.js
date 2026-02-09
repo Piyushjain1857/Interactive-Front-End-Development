@@ -22,6 +22,10 @@
 
 //     document.getElementById("content").append(image);
 // })
+
+
+// Q3.
+
 const button = document.getElementById("btn");
 const output = document.getElementById("output");
 
