@@ -2,12 +2,21 @@
 //     document.getElementById("output").textContent = "Code Changed By Piyush Jain";
 // });
 
+const myForm = document.getElementById("myForm");
 const nameInput = document.getElementById("myInput");
-const selectInput = document.getElementById("mySelect");
-const button = document.getElementById("btn");
+const courceInput = document.getElementById("cource");
 const output = document.getElementById("output");
 
-button.addEventListener("click", () => {
-    output.textContent = `Input value: ${nameInput.value}, Selected value: ${selectInput.value}`;
-    console.log(nameInput.value, selectInput.value);
-});
+// myForm.addEventListener("change", () => {
+//     console.log(nameInput.value);
+//     console.log(courceInput.value);
+//     output.textContent = courceInput.value + "  " + nameInput.value;
+// });
+
+
+myForm.addEventListener("submit", (e) => {
+    e.preventDefault();
+    const name = nameInput.value;
+    const cource = courceInput.value;
+    output.textContent = name + "  " + cource;
+}); 
