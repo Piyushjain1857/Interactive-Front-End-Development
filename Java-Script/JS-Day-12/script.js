@@ -2,10 +2,10 @@
 //     document.getElementById("output").textContent = "Code Changed By Piyush Jain";
 // });
 
-const myForm = document.getElementById("myForm");
-const nameInput = document.getElementById("myInput");
-const courceInput = document.getElementById("cource");
-const output = document.getElementById("output");
+// const myForm = document.getElementById("myForm");
+// const nameInput = document.getElementById("myInput");
+// const courceInput = document.getElementById("cource");
+// const output = document.getElementById("output");
 
 // myForm.addEventListener("change", () => {
 //     console.log(nameInput.value);
