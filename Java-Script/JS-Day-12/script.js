@@ -14,9 +14,9 @@ const output = document.getElementById("output");
 // });
 
 
-myForm.addEventListener("submit", (e) => {
-    e.preventDefault();
-    const name = nameInput.value;
-    const cource = courceInput.value;
-    output.textContent = name + "  " + cource;
-}); 
+// myForm.addEventListener("submit", (e) => {
+//     e.preventDefault();
+//     const name = nameInput.value;
+//     const cource = courceInput.value;
+//     output.textContent = name + "  " + cource;
+// }); 
