@@ -10,10 +10,6 @@
 //     query[i].textContent = "hello my name is piyush"
 // }
 
-
-
-
-
 // const ptag = document.getElementsByTagName("p");
 // console.log(ptag);
 
