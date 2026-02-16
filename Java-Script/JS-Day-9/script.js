@@ -14,15 +14,15 @@
 
 
 
-const ptag = document.getElementsByTagName("p");
-console.log(ptag);
+// const ptag = document.getElementsByTagName("p");
+// console.log(ptag);
 
-for (let i = 0; i < ptag.length; i++) {
-    ptag[i].textContent = "hello my name is piyush";
-    if (i % 2 === 0) {
-        ptag[i].style.color = "blue";
-    } else {
-        ptag[i].style.color = "green";
-    }
-}
-ptag[ptag.length - 1].style.fontWeight = "bold";
+// for (let i = 0; i < ptag.length; i++) {
+//     ptag[i].textContent = "hello my name is piyush";
+//     if (i % 2 === 0) {
+//         ptag[i].style.color = "blue";
+//     } else {
+//         ptag[i].style.color = "green";
+//     }
+// }
+// ptag[ptag.length - 1].style.fontWeight = "bold";
