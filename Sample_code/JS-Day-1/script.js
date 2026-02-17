@@ -1,8 +1,9 @@
 console.log("Hello");
-function longRunningTask() {
+function myFunction() {
     setTimeout(() => {
         console.log("Long running task finished.");
-    }, 2000); // this will execute the callback function after 2 seconds
+    }, 2000); 
 }
-longRunningTask();
+// myFunction();
+console.log(myFunction());
 console.log("This will be printed immediately after the long running task is started.");
