@@ -1,9 +1,11 @@
 console.log("Start...");
-function myFunction() {
+function myFunction(cb) {
     setTimeout(() => {
-        return("Long running task finished.");
+        cb("Long running task finished.");
     }, 2000); 
 }
 // myFunction();
-console.log(myFunction());
+myFunction((result) => {
+    console.log(result);
+});
 console.log("End...");
