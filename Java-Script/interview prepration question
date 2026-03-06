@@ -27,5 +27,71 @@ Questions of java:-
 	Q2. The difference between var, let, const?
 	Q3. Difference Between == and ===
 	Q4. What Is Arrow Function
-	Q5. What is CallBack Function
-	Q6. Difference betwwen map filter and reduce
+	Q5. Difference betwwen map filter and reduce
+	Q6. Explain the different types of operators in JavaScript.
+			Examples:
+			•⁠  ⁠Arithmetic Operators
+			•⁠  ⁠Assignment Operators
+			•⁠  ⁠Comparison Operators
+			•⁠  ⁠Logical Operators
+			•⁠  ⁠Bitwise Operators
+			•⁠  ⁠Ternary Operator
+			•⁠  ⁠Type Operators
+	Q7. What is Hoisting and TDZ (Temporal Dead Zone)?
+	Q8. Explain different Array methods in JavaScript.
+			Important comparisons:
+			•⁠  ⁠map() vs filter() vs reduce()
+			•⁠  ⁠map() vs forEach()
+			•⁠  ⁠find() vs filter()
+			•⁠  ⁠some() vs every()
+	Q9. Explain String methods and Object methods in JavaScript.
+	Q10. Types of Functions in JavaScript
+			•⁠  ⁠Regular Function
+			•⁠  ⁠Arrow Function
+			•⁠  ⁠First-Class Function
+			•⁠  ⁠Higher-Order Function
+			•⁠  ⁠Callback Function
+			•⁠  ⁠Self-Invoking Function (IIFE – Immediately Invoked Function Expression)
+			•⁠  ⁠Anonymous Function
+	Q11.What is the difference between setTimeout() and setInterval()?
+	Q12.What is the difference between DOM and HTML?What are the uses of the DOM?
+	Q13.What is the difference between:
+			•⁠  ⁠textContent
+			•⁠  ⁠innerHTML
+			•⁠  ⁠innerText
+	Q14.What is the difference between:
+			•⁠  ⁠getElementById()
+			•⁠  ⁠getElementsByClassName()
+			•⁠  ⁠query selector and queryselectorall
+	Q15.Create element, append element, remove element using DOM.
+	Q16.Explain Event Handling in JavaScript
+			•⁠  ⁠addEventListener() with implementation   
+	Q17.Form Validation using Dom:
+			* onclick
+			* onchange
+			* onsubmit
+	Q18.Explain Execution Context and Call Stack. How does JavaScript code execute?
+	Q19.What is Callback Hell? Explain its disadvantages.
+	Q20.Explain the Lifecycle of a Promise.
+		Ans. 1.⁠ ⁠Start with Callback Hell problem
+			 2.⁠ ⁠Define Promise
+			 3.⁠ ⁠Explain Promise states
+				* Pending
+				* Fulfilled
+				* Rejected
+			 4.⁠ ⁠Promise consumers:
+				* .then()
+				* .catch()
+				* .finally()
+			 5.⁠ ⁠Implementation example
+	Q21.Explain the Event Loop and how asynchronous code executes in the execution context.
+	Q22.What is Promise Chaining and its disadvantages?
+	Q23.Explain Async and Await.Why is it more efficient and readable than Promise chaining?
+
+
+
+
+
+
+
+	call back function ----- callback hell ----- promices ----- promice chaining ---- async and awake

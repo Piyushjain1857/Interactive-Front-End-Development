@@ -74,6 +74,12 @@
 // });
 
 
+
+//  output guessing question
+
+
+
+
 // console.log("start");
 // setTimeout(() => {
 //     console.log("timeout");
@@ -85,3 +91,66 @@
 
 // console.log("end");
 
+
+
+
+
+
+// setTimeout(() => {
+//     console.log("settimeout 1");
+// }, 0);
+
+// function delay() {
+//     return new Promise(resolve => {
+//         setTimeout(() => {
+//             console.log("Timeout Done");
+//             resolve();
+//         }, 0);
+//     });
+// }
+
+// function test() {
+//     console.log("Start");
+//     delay();
+//     console.log("After Delay");
+// }
+
+// test();
+// console.log("End");
+
+
+
+
+
+// console.log("Start");
+
+// setTimeout(() => {
+//     console.log("Timer");
+// }, 0);
+
+// Promise.resolve()
+//     .then(() => {
+//         console.log("First");
+//     })
+//     .then(() => {
+//         console.log("Second");
+//     });
+
+// console.log("End");
+
+
+
+
+function pro(num) {
+    return new Promise((res, rej) => {
+        setTimeout(() => {
+            res(num)            
+        }, 1000);
+    })
+}
+
+pro(1)
+    .then(() =>pro(2))
+    .then(() =>pro(3))
+    .then(() =>pro(4))
+    .then(() =>pro(5))
