@@ -22,7 +22,7 @@ Questions of CSS:-
 	19.what is the diff b/w justify-content and align-item
 	20.how to center a div
 
-Questions of java:-
+Questions of java script:-
 	Q1. what is java script?
 	Q2. The difference between var, let, const?
 	Q3. Difference Between == and ===
@@ -95,3 +95,28 @@ Questions of java:-
 
 
 	call back function ----- callback hell ----- promices ----- promice chaining ---- async and awake
+
+
+
+Cloud computing
+
+1. Explain the concept of elasticity and load balancing in Cloud Computing. How do they improve performance & cost efficiency practices.
+2. Explain the concept of virtualization discuss the roles of hypervisor, containers, VM with example.
+3. Cloud computing basics,defination,uses,etc
+4. cloud characterstics(on-demand,self-service,scalibility,elacticity)--meaning and difference
+5. Diff. b/w IAAS VS PAAS VS SAAS
+6. Diff. b/w public,private,community and hybrid cloud
+7. What is auto scalling and high availibility concept?
+
+
+Data Structure
+
+1. Basics of Data Structure(meaning,defination,etc)
+2. Basics of ADT(meaning,defination,etc)
+3. Big-o (time and space complexity)
+4. Array and matrics question i will share
+5. Linked list ADT
+6. Stack ADT
+7. Queue ADT
+8. Appicstion and differcences of Stack,Quesue,Linked list
+9. Bisic of list,dictionary,tuple
