@@ -96,4 +96,7 @@ Questions of java script:-
 
 	Q1. What is React? State the difference Between React,Angular,Vue.
 	Q2. What is Virtual DOM? State the disadvantages of DOM.
-	Q3. 
+	Q3. What is Diffing Algorithm?
+	Q4. What is Recoincilation?
+	Q5. What is JSX file format? 
+	Q6. What is Babel?
